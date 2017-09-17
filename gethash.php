@@ -31,7 +31,7 @@ if ($res['hashcount']) {
 
 }
 else {
-   print("No NTLM hash is leaked. :( Try to manually copy and paste -> file://"); print($_SERVER['HTTP_HOST']); print("/a to your URL bar.");
+   print("No NTLM hash is leaked. :( Try to manually copy and paste -> file://CHANGEME/a"); //print($_SERVER['HTTP_HOST']); print("/a to your URL bar.");
   //  print("(Works only on Windows with IE/Edge/Chrome)");
 }
 print("</pre>");
